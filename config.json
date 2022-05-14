@@ -1,0 +1,7 @@
+{
+    "MYSQL_HOST": "127.0.0.1",
+    "MYSQL_USER": "root",
+    "MYSQL_PASSWORD": "InsuranceCompany",
+    "MYSQL_DB": "insurance_company",
+    "load_data_to_db": false
+}
